@@ -7,7 +7,7 @@ function setup() {
   createCanvas(600, 800);
   textAlign(RIGHT);
 
-  inputBox = createInput("2**2 * 5**2 * 11");
+  inputBox = createInput("2^2 * 5^2 * 7");
   inputBox.position(10, 10);
   inputBox.size(200);
 
