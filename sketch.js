@@ -22,7 +22,7 @@ let factors = [[], [1]];
 let inputBox, button;
 
 function setup() {
-  createCanvas(600, 800);
+  createCanvas(1500, 1000);
   textAlign(RIGHT);
 
   inputBox = createInput("2^2 * 5^2 * 7");
